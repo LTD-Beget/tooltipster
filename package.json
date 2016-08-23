@@ -1,0 +1,40 @@
+{
+  "author": {
+    "name": "Caleb Jacob",
+    "email": "hello@calebjacob.com",
+    "url": "http://calebjacob.com"
+  },
+  "bugs": {
+    "url": "https://github.com/iamceege/tooltipster/issues"
+  },
+  "description": "A flexible and extensible jQuery plugin for modern tooltips.",
+  "devDependencies": {},
+  "homepage": "https://github.com/iamceege/tooltipster",
+  "keywords": [
+    "ecosystem:jquery",
+    "jquery-plugin",
+    "tooltip",
+    "tooltips"
+  ],
+  "license": "MIT",
+  "main": "js/jquery.tooltipster.js",
+  "maintainers": [
+    {
+      "name": "Louis Ameline",
+      "email": "evangun2001@yahoo.fr",
+      "url": "https://github.com/louisameline"
+    }
+  ],
+  "name": "tooltipster",
+  "peerDependencies": {
+    "jquery": ">=1.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamceege/tooltipster.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "3.3.1"
+}
